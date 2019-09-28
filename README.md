@@ -1,2 +1,2 @@
 # The Penguin Game
-An interactive 3-D game where the user controls a penguin on a snow tube. The objective of the game is to avoid snowmen as the speed of the penguin increases.  
+A game application where a player controls a penguin riding a snow tube trying to avoid obstacles as it accelerates. Developed using the OpenGL Utility Toolkit (GLUT).
